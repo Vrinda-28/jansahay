@@ -1,0 +1,7 @@
+model,language,n_queries,hit@1_strict,hit@5_strict,recall@1_strict,recall@5_strict,precision@5_strict,mrr_strict,hit@5_topical,recall@5_topical
+TF-IDF,English,38,0.0789,0.2895,0.0789,0.2237,0.0579,0.1496,1.0,0.2232
+Semantic (E5),English,38,0.0526,0.2368,0.0526,0.1974,0.0474,0.1259,1.0,0.2113
+TF-IDF,Hindi,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Semantic (E5),Hindi,20,0.1,0.3,0.1,0.275,0.06,0.1667,0.95,0.2921
+TF-IDF,Code-Mixed,24,0.0417,0.0833,0.0417,0.0833,0.0167,0.0521,0.875,0.105
+Semantic (E5),Code-Mixed,24,0.0417,0.125,0.0208,0.0625,0.025,0.0583,0.875,0.0842

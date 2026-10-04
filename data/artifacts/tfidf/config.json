@@ -1,0 +1,14 @@
+{
+  "vectorizer_params": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "sublinear_tf": true,
+    "norm": "l2",
+    "min_df": 1
+  },
+  "num_schemes": 115,
+  "num_features": 6129,
+  "doc_hash": "74a8b25210112dd9de52a7f8a10718c3bf4f15a88ae91c8b5127a3a18184e02f"
+}

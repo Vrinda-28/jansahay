@@ -1,0 +1,7 @@
+{
+  "tfidf_avg_ms": 8.54,
+  "tfidf_median_ms": 7.51,
+  "semantic_avg_ms": 49.76,
+  "semantic_median_ms": 42.39,
+  "note": "Model loading excluded. Per-query inference latency only."
+}

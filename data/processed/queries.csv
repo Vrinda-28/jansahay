@@ -1,0 +1,83 @@
+query_id,user_query,language,detected_language,query_type,difficulty,intent,relevant_scheme_ids
+Q-001,क्या सरकार व्यवसाय के लिए ब्याज सब्सिडी देती है,Hindi,Hindi,Question,Medium,Financial Assistance,"1,115"
+Q-002,poor students ke liye padhai ki sahayata yojana,Code-Mixed,Code-Mixed,Natural Language,Medium,Education,"2,45"
+Q-003,engineering student scholarship scheme,English,English,Keyword,Easy,Education,"3,95"
+Q-004,crop cultivation subsidy scheme,English,English,Keyword,Easy,Agriculture,4
+Q-005,व्यवसाय शुरू करने के लिए सरकारी सब्सिडी कैसे मिलेगी,Hindi,Hindi,Question,Medium,Financial Assistance,"5,13"
+Q-006,स्किल ट्रेनिंग सरकारी योजना,Hindi,Hindi,Keyword,Easy,Employment,"6,100"
+Q-007,ladki ki padhai ke liye sarkari yojana,Code-Mixed,Code-Mixed,Natural Language,Medium,Women Welfare,7
+Q-008,outstanding entrepreneur award govt scheme,English,English,Keyword,Easy,Financial Assistance,"8,109"
+Q-009,mujhe apni padhai ke liye sarkari scholarship chahiye,Code-Mixed,Code-Mixed,Conversational,Hard,Education,"9,113"
+Q-010,old age pension scheme apply,English,English,Keyword,Easy,Pension,10
+Q-011,greenhouse poly house subsidy kisan yojana,Code-Mixed,Code-Mixed,Natural Language,Medium,Agriculture,11
+Q-012,research fellowship for students scheme,English,English,Keyword,Easy,Education,"12,72"
+Q-013,बुनकरों के लिए सरकारी सहायता योजना,Hindi,Hindi,Natural Language,Medium,Employment,14
+Q-014,"मुझे अपनी फैक्ट्री के लिए सब्सिडी चाहिए, क्या कोई योजना है",Hindi,Hindi,Conversational,Hard,Financial Assistance,15
+Q-015,किसानों के लिए ट्रैक्टर सब्सिडी योजना,Hindi,Hindi,Natural Language,Medium,Agriculture,"16,60"
+Q-016,कारीगरों के लिए प्रशिक्षण योजना,Hindi,Hindi,Natural Language,Medium,Employment,"17,101"
+Q-017,coir workers training yojana,Code-Mixed,Code-Mixed,Keyword,Easy,Employment,18
+Q-018,govt grant for exhibition participation business,English,English,Natural Language,Medium,Financial Assistance,"19,97"
+Q-019,उद्योग लगाने के लिए वित्तीय सहायता योजना,Hindi,Hindi,Natural Language,Medium,Financial Assistance,"20,71"
+Q-020,entrepreneurship development programme govt,English,English,Natural Language,Medium,Employment,21
+Q-021,AICTE scholarship kaise apply kare,Code-Mixed,Code-Mixed,Question,Medium,Education,"22,44"
+Q-022,how to apply for industry subsidy scheme,English,Code-Mixed,Question,Medium,Financial Assistance,"23,27"
+Q-023,free treatment scheme for serious disease,English,English,Keyword,Easy,Healthcare,24
+Q-024,chhote udyog ke liye sarkari anudan yojana,Code-Mixed,Code-Mixed,Natural Language,Medium,Financial Assistance,"25,50"
+Q-025,क्या तकनीकी छात्रों के लिए कोई अनुदान है,Hindi,Hindi,Question,Medium,Education,"26,112"
+Q-026,employment generation scheme for youth,English,English,Keyword,Easy,Employment,"28,69"
+Q-027,widow aur destitute ke liye bima yojana,Code-Mixed,Code-Mixed,Natural Language,Medium,Social Welfare,29
+Q-028,lactating mother nutrition assistance scheme,English,English,Natural Language,Medium,Women Welfare,30
+Q-029,farmer subsidy scheme for equipment,English,English,Keyword,Easy,Agriculture,31
+Q-030,naukri ke liye skill development yojana,Code-Mixed,Code-Mixed,Natural Language,Medium,Employment,"32,98"
+Q-031,naya udyog lagane ke liye capital subsidy kaise milegi,Code-Mixed,Code-Mixed,Question,Medium,Financial Assistance,"33,99"
+Q-032,beti ke liye bima yojana,Code-Mixed,Code-Mixed,Natural Language,Medium,Women Welfare,34
+Q-033,kisan ko machine kharidne ke liye sahayata yojana,Code-Mixed,Code-Mixed,Natural Language,Medium,Agriculture,35
+Q-034,silk weavers training scheme government,English,English,Keyword,Easy,Employment,36
+Q-035,बेटी के लिए सरकारी योजना,Hindi,Hindi,Keyword,Medium,Women Welfare,37
+Q-036,factory ke liye bijli duty maaf karne wali yojana,Code-Mixed,Code-Mixed,Natural Language,Easy,Financial Assistance,"38,83"
+Q-037,vocational training scheme for youth,English,English,Keyword,Easy,Employment,"39,47"
+Q-038,fish farming pond subsidy scheme,English,English,Keyword,Easy,Agriculture,40
+Q-039,मजदूर की मृत्यु पर सहायता योजना,Hindi,Hindi,Natural Language,Medium,Social Welfare,41
+Q-040,boat insurance scheme for fishermen,English,English,Natural Language,Medium,Agriculture,42
+Q-041,sugarcane farmer support scheme,English,English,Keyword,Easy,Agriculture,43
+Q-042,क्या किसानों के लिए बीमा योजना है,Hindi,Hindi,Question,Medium,Agriculture,46
+Q-043,मुफ्त इलाज के लिए सरकारी योजना,Hindi,Hindi,Natural Language,Medium,Healthcare,48
+Q-044,scheme for women entrepreneurs government,English,English,Natural Language,Hard,Women Welfare,49
+Q-045,गरीब छात्रों के लिए छात्रवृत्ति योजना,Hindi,Hindi,Natural Language,Medium,Education,"51,88"
+Q-046,mujhe kheti ke liye sarkari madad chahiye,Code-Mixed,Code-Mixed,Conversational,Hard,Agriculture,52
+Q-047,self employment training scheme apply kaise kare,Code-Mixed,Code-Mixed,Question,Medium,Employment,53
+Q-048,SGST reimbursement scheme for industries,English,English,Keyword,Easy,Financial Assistance,"54,81"
+Q-049,scholarship for students government scheme,English,English,Keyword,Easy,Education,"55,74"
+Q-050,गरीबों के लिए पोषण सहायता योजना,Hindi,Hindi,Natural Language,Medium,Food Security,56
+Q-051,interest subsidy on business loan scheme,English,English,Keyword,Easy,Financial Assistance,"57,66"
+Q-052,insurance scheme for BPL families,English,English,Keyword,Easy,Social Welfare,58
+Q-053,महिलाओं के लिए उद्यम योजना,Hindi,Hindi,Keyword,Easy,Women Welfare,59
+Q-054,फेलोशिप योजना छात्रों के लिए,Hindi,Hindi,Keyword,Easy,Education,"61,63"
+Q-055,girl child scheme financial assistance,English,English,Keyword,Easy,Women Welfare,62
+Q-056,student exchange fellowship scheme abroad,English,English,Natural Language,Medium,Education,64
+Q-057,sarkar se paisa kaise milega naya business ke liye,Code-Mixed,Code-Mixed,Conversational,Easy,Financial Assistance,"65,104"
+Q-058,specially abled student scholarship yojana,Code-Mixed,Code-Mixed,Keyword,Easy,Education,"67,85"
+Q-059,farm mechanization scheme apply online,English,English,Question,Medium,Agriculture,68
+Q-060,matsya palan ke liye sarkari yojana,Code-Mixed,Code-Mixed,Natural Language,Medium,Agriculture,70
+Q-061,"mujhe rojgar ke liye training chahiye, koi sarkari scheme hai kya",Code-Mixed,Code-Mixed,Conversational,Hard,Employment,73
+Q-062,welfare scheme for construction worker death,English,English,Natural Language,Medium,Social Welfare,75
+Q-063,stamp duty reimbursement for new factory setup,English,English,Keyword,Medium,Financial Assistance,"76,84"
+Q-064,patent registration ke liye sarkari sahayata,Code-Mixed,Code-Mixed,Natural Language,Hard,Financial Assistance,77
+Q-065,management training program for entrepreneurs,English,English,Natural Language,Medium,Employment,78
+Q-066,scholarship for girl students scheme,English,English,Keyword,Easy,Women Welfare,79
+Q-067,fisheries development scheme government,English,English,Natural Language,Medium,Agriculture,80
+Q-068,college fees ke liye sarkari madad kaise milegi,Code-Mixed,Code-Mixed,Question,Medium,Education,"82,106"
+Q-069,coconut farmers integrated farming scheme,English,English,Natural Language,Medium,Agriculture,86
+Q-070,margin money loan for small business scheme,English,English,Keyword,Easy,Employment,87
+Q-071,SC ST farmers ke liye tractor yojana,Code-Mixed,Code-Mixed,Natural Language,Medium,Agriculture,89
+Q-072,MSME loan subsidy government scheme,English,English,Keyword,Easy,Financial Assistance,"90,96"
+Q-073,क्या बेटियों के लिए कोई बचत योजना है,Hindi,Hindi,Question,Medium,Women Welfare,91
+Q-074,बुढ़ापे में पेंशन कैसे मिलेगी,Hindi,Hindi,Question,Medium,Pension,92
+Q-075,technical college infrastructure grant scheme,English,English,Keyword,Easy,Education,93
+Q-076,how to get free skill training govt scheme,English,Code-Mixed,Question,Medium,Employment,94
+Q-077,handicraft artisan training scheme govt,English,English,Natural Language,Medium,Employment,"102,107"
+Q-078,teacher training program government scheme,English,English,Natural Language,Medium,Education,"103,108"
+Q-079,librarian training program government scheme,English,English,Keyword,Easy,Education,105
+Q-080,मछुआरों के लिए राहत योजना,Hindi,Hindi,Keyword,Easy,Agriculture,110
+Q-081,backward class students ke liye pre matric scholarship,Code-Mixed,Code-Mixed,Natural Language,Medium,Education,111
+Q-082,paddy growers subsidy yojana,Code-Mixed,Code-Mixed,Keyword,Easy,Agriculture,114

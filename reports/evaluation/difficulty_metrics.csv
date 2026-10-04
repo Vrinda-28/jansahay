@@ -1,0 +1,7 @@
+model,difficulty,n_queries,hit@1_strict,hit@5_strict,recall@1_strict,recall@5_strict,precision@5_strict,mrr_strict,hit@5_topical,recall@5_topical
+TF-IDF,Easy,31,0.0645,0.2258,0.0645,0.1774,0.0452,0.1204,0.8387,0.1896
+Semantic (E5),Easy,31,0.0323,0.2258,0.0323,0.1774,0.0452,0.1043,0.9677,0.203
+TF-IDF,Medium,45,0.0222,0.1111,0.0222,0.0889,0.0222,0.0489,0.6444,0.098
+Semantic (E5),Medium,45,0.0444,0.2,0.0444,0.1667,0.04,0.0952,0.9333,0.1987
+TF-IDF,Hard,6,0.1667,0.1667,0.1667,0.1667,0.0333,0.1667,0.6667,0.1194
+Semantic (E5),Hard,6,0.3333,0.3333,0.25,0.25,0.0667,0.3333,1.0,0.1098

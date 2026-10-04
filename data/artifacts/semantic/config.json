@@ -1,0 +1,9 @@
+{
+  "model_name": "intfloat/multilingual-e5-base",
+  "use_e5_prefix": true,
+  "embedding_dim": 768,
+  "num_schemes": 115,
+  "normalization": "L2 (unit vectors)",
+  "doc_hash": "8c56b6db6850c7f50d9fc61c587f6f563155425918a50dc2e8ef3e6456f0c338",
+  "low_sim_threshold": 0.3
+}

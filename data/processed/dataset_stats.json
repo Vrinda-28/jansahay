@@ -1,0 +1,39 @@
+{
+  "total_scheme_records": 115,
+  "total_unique_schemes": 115,
+  "total_unique_queries": 82,
+  "repeated_query_rows": 33,
+  "language_distribution": {
+    "English": 52,
+    "Code-Mixed": 34,
+    "Hindi": 29
+  },
+  "intent_distribution": {
+    "Financial Assistance": 30,
+    "Education": 28,
+    "Employment": 21,
+    "Agriculture": 18,
+    "Women Welfare": 9,
+    "Social Welfare": 4,
+    "Pension": 2,
+    "Healthcare": 2,
+    "Food Security": 1
+  },
+  "query_type_distribution": {
+    "Natural Language": 44,
+    "Keyword": 44,
+    "Question": 20,
+    "Conversational": 7
+  },
+  "difficulty_distribution": {
+    "Medium": 60,
+    "Easy": 41,
+    "Hard": 14
+  },
+  "level_distribution": {
+    "State": 86,
+    "Central": 29
+  },
+  "missing_values_in_raw": 0,
+  "data_leakage_verified": true
+}

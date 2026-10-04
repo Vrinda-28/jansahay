@@ -1,0 +1,165 @@
+query_id,user_query,language,query_type,difficulty,intent,model,n_strict,hit@1_strict,hit@5_strict,recall@1_strict,recall@5_strict,precision@5_strict,mrr_strict,hit@5_topical,recall@5_topical,tfidf_overlap,retrieved_ids,strict_ids
+Q-001,क्या सरकार व्यवसाय के लिए ब्याज सब्सिडी देती है,Hindi,Question,Medium,Financial Assistance,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,"1,115"
+Q-001,क्या सरकार व्यवसाय के लिए ब्याज सब्सिडी देती है,Hindi,Question,Medium,Financial Assistance,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16666666666666666,1,"33,15,77,104,84","1,115"
+Q-002,poor students ke liye padhai ki sahayata yojana,Code-Mixed,Natural Language,Medium,Education,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,"102,20,30,56,19","2,45"
+Q-002,poor students ke liye padhai ki sahayata yojana,Code-Mixed,Natural Language,Medium,Education,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.03571428571428571,0,"9,56,24,30,20","2,45"
+Q-003,engineering student scholarship scheme,English,Keyword,Easy,Education,tfidf,2,0.0,1.0,0.0,0.5,0.2,0.2,1.0,0.10714285714285714,0,"59,49,72,64,3","3,95"
+Q-003,engineering student scholarship scheme,English,Keyword,Easy,Education,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.10714285714285714,0,"12,59,64,49,72","3,95"
+Q-004,crop cultivation subsidy scheme,English,Keyword,Easy,Agriculture,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2222222222222222,0,"40,89,96,80,60",4
+Q-004,crop cultivation subsidy scheme,English,Keyword,Easy,Agriculture,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2222222222222222,0,"40,89,60,86,34",4
+Q-005,व्यवसाय शुरू करने के लिए सरकारी सब्सिडी कैसे मिलेगी,Hindi,Question,Medium,Financial Assistance,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,"5,13"
+Q-005,व्यवसाय शुरू करने के लिए सरकारी सब्सिडी कैसे मिलेगी,Hindi,Question,Medium,Financial Assistance,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.1,1,"15,50,34,104,28","5,13"
+Q-006,स्किल ट्रेनिंग सरकारी योजना,Hindi,Keyword,Easy,Employment,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,"6,100"
+Q-006,स्किल ट्रेनिंग सरकारी योजना,Hindi,Keyword,Easy,Employment,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,"108,2,112,9,95","6,100"
+Q-007,ladki ki padhai ke liye sarkari yojana,Code-Mixed,Natural Language,Medium,Women Welfare,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.1111111111111111,0,"56,102,35,92,30",7
+Q-007,ladki ki padhai ke liye sarkari yojana,Code-Mixed,Natural Language,Medium,Women Welfare,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.1111111111111111,0,"9,102,30,56,103",7
+Q-008,outstanding entrepreneur award govt scheme,English,Keyword,Easy,Financial Assistance,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.03333333333333333,0,"94,7,14,96,87","8,109"
+Q-008,outstanding entrepreneur award govt scheme,English,Keyword,Easy,Financial Assistance,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.06666666666666667,0,"94,101,27,98,84","8,109"
+Q-009,mujhe apni padhai ke liye sarkari scholarship chahiye,Code-Mixed,Conversational,Hard,Education,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.10714285714285714,0,"72,59,49,3,45","9,113"
+Q-009,mujhe apni padhai ke liye sarkari scholarship chahiye,Code-Mixed,Conversational,Hard,Education,semantic,2,1.0,1.0,0.5,0.5,0.2,1.0,1.0,0.07142857142857142,0,"9,72,56,102,30","9,113"
+Q-010,old age pension scheme apply,English,Keyword,Easy,Pension,tfidf,1,1.0,1.0,1.0,1.0,0.2,1.0,1.0,1.0,0,"10,29,96,5,92",10
+Q-010,old age pension scheme apply,English,Keyword,Easy,Pension,semantic,1,1.0,1.0,1.0,1.0,0.2,1.0,1.0,0.5,0,"10,21,29,103,48",10
+Q-011,greenhouse poly house subsidy kisan yojana,Code-Mixed,Natural Language,Medium,Agriculture,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.1111111111111111,0,"80,56,102,35,92",11
+Q-011,greenhouse poly house subsidy kisan yojana,Code-Mixed,Natural Language,Medium,Agriculture,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.05555555555555555,0,"92,62,80,20,24",11
+Q-012,research fellowship for students scheme,English,Keyword,Easy,Education,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.17857142857142858,0,"106,51,64,22,105","12,72"
+Q-012,research fellowship for students scheme,English,Keyword,Easy,Education,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.17857142857142858,0,"106,22,51,85,63","12,72"
+Q-013,बुनकरों के लिए सरकारी सहायता योजना,Hindi,Natural Language,Medium,Employment,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,14
+Q-013,बुनकरों के लिए सरकारी सहायता योजना,Hindi,Natural Language,Medium,Employment,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.09523809523809523,1,"56,102,24,92,107",14
+Q-014,"मुझे अपनी फैक्ट्री के लिए सब्सिडी चाहिए, क्या कोई योजना है",Hindi,Conversational,Hard,Financial Assistance,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,15
+Q-014,"मुझे अपनी फैक्ट्री के लिए सब्सिडी चाहिए, क्या कोई योजना है",Hindi,Conversational,Hard,Financial Assistance,semantic,1,1.0,1.0,1.0,1.0,0.2,1.0,1.0,0.06666666666666667,1,"15,34,104,101,107",15
+Q-015,किसानों के लिए ट्रैक्टर सब्सिडी योजना,Hindi,Natural Language,Medium,Agriculture,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,"16,60"
+Q-015,किसानों के लिए ट्रैक्टर सब्सिडी योजना,Hindi,Natural Language,Medium,Agriculture,semantic,2,0.0,1.0,0.0,0.5,0.2,0.25,1.0,0.2777777777777778,1,"31,89,70,16,40","16,60"
+Q-016,कारीगरों के लिए प्रशिक्षण योजना,Hindi,Natural Language,Medium,Employment,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,"17,101"
+Q-016,कारीगरों के लिए प्रशिक्षण योजना,Hindi,Natural Language,Medium,Employment,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.14285714285714285,1,"53,9,18,14,112","17,101"
+Q-017,coir workers training yojana,Code-Mixed,Keyword,Easy,Employment,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.14285714285714285,0,"47,112,102,92,32",18
+Q-017,coir workers training yojana,Code-Mixed,Keyword,Easy,Employment,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.09523809523809523,0,"47,56,9,92,102",18
+Q-018,govt grant for exhibition participation business,English,Natural Language,Medium,Financial Assistance,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.06666666666666667,0,"8,78,36,83,10","19,97"
+Q-018,govt grant for exhibition participation business,English,Natural Language,Medium,Financial Assistance,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.1,0,"8,83,36,94,54","19,97"
+Q-019,उद्योग लगाने के लिए वित्तीय सहायता योजना,Hindi,Natural Language,Medium,Financial Assistance,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,"20,71"
+Q-019,उद्योग लगाने के लिए वित्तीय सहायता योजना,Hindi,Natural Language,Medium,Financial Assistance,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.1,1,"107,101,54,104,15","20,71"
+Q-020,entrepreneurship development programme govt,English,Natural Language,Medium,Employment,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.047619047619047616,0,"39,85,108,45,96",21
+Q-020,entrepreneurship development programme govt,English,Natural Language,Medium,Employment,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.14285714285714285,0,"39,101,90,98,15",21
+Q-021,AICTE scholarship kaise apply kare,Code-Mixed,Question,Medium,Education,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.07142857142857142,0,"72,59,49,45,96","22,44"
+Q-021,AICTE scholarship kaise apply kare,Code-Mixed,Question,Medium,Education,semantic,2,0.0,1.0,0.0,0.5,0.2,0.2,1.0,0.10714285714285714,0,"59,49,93,72,22","22,44"
+Q-022,how to apply for industry subsidy scheme,English,Question,Medium,Financial Assistance,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16666666666666666,0,"96,115,33,104,77","23,27"
+Q-022,how to apply for industry subsidy scheme,English,Question,Medium,Financial Assistance,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.06666666666666667,0,"15,101,98,109,28","23,27"
+Q-023,free treatment scheme for serious disease,English,Keyword,Easy,Healthcare,tfidf,1,0.0,1.0,0.0,1.0,0.2,0.5,1.0,1.0,0,"48,24,102,67,9",24
+Q-023,free treatment scheme for serious disease,English,Keyword,Easy,Healthcare,semantic,1,0.0,1.0,0.0,1.0,0.2,0.5,1.0,1.0,0,"48,24,9,21,67",24
+Q-024,chhote udyog ke liye sarkari anudan yojana,Code-Mixed,Natural Language,Medium,Financial Assistance,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.03333333333333333,0,"56,20,102,35,92","25,50"
+Q-024,chhote udyog ke liye sarkari anudan yojana,Code-Mixed,Natural Language,Medium,Financial Assistance,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.03333333333333333,0,"56,20,102,9,110","25,50"
+Q-025,क्या तकनीकी छात्रों के लिए कोई अनुदान है,Hindi,Question,Medium,Education,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,"26,112"
+Q-025,क्या तकनीकी छात्रों के लिए कोई अनुदान है,Hindi,Question,Medium,Education,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.17857142857142858,1,"88,44,74,63,72","26,112"
+Q-026,employment generation scheme for youth,English,Keyword,Easy,Employment,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.14285714285714285,0,"39,111,101,98,33","28,69"
+Q-026,employment generation scheme for youth,English,Keyword,Easy,Employment,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.14285714285714285,0,"39,101,9,30,98","28,69"
+Q-027,widow aur destitute ke liye bima yojana,Code-Mixed,Natural Language,Medium,Social Welfare,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.25,0,"32,103,21,92,75",29
+Q-027,widow aur destitute ke liye bima yojana,Code-Mixed,Natural Language,Medium,Social Welfare,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,"24,56,20,62,103",29
+Q-028,lactating mother nutrition assistance scheme,English,Natural Language,Medium,Women Welfare,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.1111111111111111,0,"91,90,115,31,52",30
+Q-028,lactating mother nutrition assistance scheme,English,Natural Language,Medium,Women Welfare,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.1111111111111111,0,"91,86,60,24,54",30
+Q-029,farmer subsidy scheme for equipment,English,Keyword,Easy,Agriculture,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2222222222222222,0,"4,70,16,96,89",31
+Q-029,farmer subsidy scheme for equipment,English,Keyword,Easy,Agriculture,semantic,1,0.0,1.0,0.0,1.0,0.2,0.5,1.0,0.2777777777777778,0,"40,31,89,70,4",31
+Q-030,naukri ke liye skill development yojana,Code-Mixed,Natural Language,Medium,Employment,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.14285714285714285,0,"112,73,47,110,36","32,98"
+Q-030,naukri ke liye skill development yojana,Code-Mixed,Natural Language,Medium,Employment,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.09523809523809523,0,"9,30,102,56,53","32,98"
+Q-031,naya udyog lagane ke liye capital subsidy kaise milegi,Code-Mixed,Question,Medium,Financial Assistance,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16666666666666666,0,"104,50,71,109,38","33,99"
+Q-031,naya udyog lagane ke liye capital subsidy kaise milegi,Code-Mixed,Question,Medium,Financial Assistance,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.1,0,"71,104,96,103,9","33,99"
+Q-032,beti ke liye bima yojana,Code-Mixed,Natural Language,Medium,Women Welfare,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2222222222222222,0,"32,103,21,30,79",34
+Q-032,beti ke liye bima yojana,Code-Mixed,Natural Language,Medium,Women Welfare,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2222222222222222,0,"30,103,56,62,24",34
+Q-033,kisan ko machine kharidne ke liye sahayata yojana,Code-Mixed,Natural Language,Medium,Agriculture,tfidf,1,0.0,1.0,0.0,1.0,0.2,0.25,1.0,0.05555555555555555,0,"102,20,56,35,92",35
+Q-033,kisan ko machine kharidne ke liye sahayata yojana,Code-Mixed,Natural Language,Medium,Agriculture,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,"9,102,56,62,103",35
+Q-034,silk weavers training scheme government,English,Keyword,Easy,Employment,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.19047619047619047,0,"17,69,112,87,14",36
+Q-034,silk weavers training scheme government,English,Keyword,Easy,Employment,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.23809523809523808,0,"17,69,87,14,53",36
+Q-035,बेटी के लिए सरकारी योजना,Hindi,Keyword,Medium,Women Welfare,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,37
+Q-035,बेटी के लिए सरकारी योजना,Hindi,Keyword,Medium,Women Welfare,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.3333333333333333,1,"30,79,91,56,24",37
+Q-036,factory ke liye bijli duty maaf karne wali yojana,Code-Mixed,Natural Language,Easy,Financial Assistance,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.06666666666666667,0,"76,97,56,102,35","38,83"
+Q-036,factory ke liye bijli duty maaf karne wali yojana,Code-Mixed,Natural Language,Easy,Financial Assistance,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.03333333333333333,0,"103,32,10,99,102","38,83"
+Q-037,vocational training scheme for youth,English,Keyword,Easy,Employment,tfidf,2,0.0,1.0,0.0,0.5,0.2,0.5,1.0,0.14285714285714285,0,"112,39,73,14,111","39,47"
+Q-037,vocational training scheme for youth,English,Keyword,Easy,Employment,semantic,2,0.0,1.0,0.0,0.5,0.2,0.2,1.0,0.09523809523809523,0,"9,73,88,2,39","39,47"
+Q-038,fish farming pond subsidy scheme,English,Keyword,Easy,Agriculture,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16666666666666666,0,"110,96,86,43,115",40
+Q-038,fish farming pond subsidy scheme,English,Keyword,Easy,Agriculture,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2777777777777778,0,"110,43,46,68,42",40
+Q-039,मजदूर की मृत्यु पर सहायता योजना,Hindi,Natural Language,Medium,Social Welfare,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,41
+Q-039,मजदूर की मृत्यु पर सहायता योजना,Hindi,Natural Language,Medium,Social Welfare,semantic,1,1.0,1.0,1.0,1.0,0.2,1.0,1.0,0.5,1,"41,103,58,19,21",41
+Q-040,boat insurance scheme for fishermen,English,Natural Language,Medium,Agriculture,tfidf,1,0.0,1.0,0.0,1.0,0.2,0.25,1.0,0.2222222222222222,0,"43,68,75,42,52",42
+Q-040,boat insurance scheme for fishermen,English,Natural Language,Medium,Agriculture,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2222222222222222,0,"43,52,58,46,68",42
+Q-041,sugarcane farmer support scheme,English,Keyword,Easy,Agriculture,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2777777777777778,0,"60,11,40,86,89",43
+Q-041,sugarcane farmer support scheme,English,Keyword,Easy,Agriculture,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2777777777777778,0,"60,70,31,86,4",43
+Q-042,क्या किसानों के लिए बीमा योजना है,Hindi,Question,Medium,Agriculture,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,46
+Q-042,क्या किसानों के लिए बीमा योजना है,Hindi,Question,Medium,Agriculture,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16666666666666666,1,"75,31,43,21,11",46
+Q-043,मुफ्त इलाज के लिए सरकारी योजना,Hindi,Natural Language,Medium,Healthcare,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,48
+Q-043,मुफ्त इलाज के लिए सरकारी योजना,Hindi,Natural Language,Medium,Healthcare,semantic,1,0.0,1.0,0.0,1.0,0.2,0.5,1.0,1.0,1,"24,48,21,9,41",48
+Q-044,scheme for women entrepreneurs government,English,Natural Language,Hard,Women Welfare,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.3333333333333333,0,"34,62,104,56,79",49
+Q-044,scheme for women entrepreneurs government,English,Natural Language,Hard,Women Welfare,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2222222222222222,0,"34,62,84,101,23",49
+Q-045,गरीब छात्रों के लिए छात्रवृत्ति योजना,Hindi,Natural Language,Medium,Education,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,"51,88"
+Q-045,गरीब छात्रों के लिए छात्रवृत्ति योजना,Hindi,Natural Language,Medium,Education,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.10714285714285714,1,"3,56,9,20,108","51,88"
+Q-046,mujhe kheti ke liye sarkari madad chahiye,Code-Mixed,Conversational,Hard,Agriculture,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,52
+Q-046,mujhe kheti ke liye sarkari madad chahiye,Code-Mixed,Conversational,Hard,Agriculture,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.05555555555555555,1,"102,9,56,20,35",52
+Q-047,self employment training scheme apply kaise kare,Code-Mixed,Question,Medium,Employment,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.14285714285714285,0,"112,73,96,17,14",53
+Q-047,self employment training scheme apply kaise kare,Code-Mixed,Question,Medium,Employment,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.09523809523809523,0,"9,67,2,17,47",53
+Q-048,SGST reimbursement scheme for industries,English,Keyword,Easy,Financial Assistance,tfidf,2,0.0,1.0,0.0,0.5,0.2,0.2,1.0,0.16666666666666666,0,"13,57,1,97,81","54,81"
+Q-048,SGST reimbursement scheme for industries,English,Keyword,Easy,Financial Assistance,semantic,2,0.0,1.0,0.0,0.5,0.2,0.3333333333333333,1.0,0.16666666666666666,0,"13,57,81,97,77","54,81"
+Q-049,scholarship for students government scheme,English,Keyword,Easy,Education,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.07142857142857142,0,"3,72,59,49,115","55,74"
+Q-049,scholarship for students government scheme,English,Keyword,Easy,Education,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.07142857142857142,0,"72,49,59,30,3","55,74"
+Q-050,गरीबों के लिए पोषण सहायता योजना,Hindi,Natural Language,Medium,Food Security,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,56
+Q-050,गरीबों के लिए पोषण सहायता योजना,Hindi,Natural Language,Medium,Food Security,semantic,1,0.0,1.0,0.0,1.0,0.2,0.3333333333333333,1.0,1.0,1,"20,91,56,24,9",56
+Q-051,interest subsidy on business loan scheme,English,Keyword,Easy,Financial Assistance,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16666666666666666,0,"77,33,15,23,84","57,66"
+Q-051,interest subsidy on business loan scheme,English,Keyword,Easy,Financial Assistance,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.1,0,"15,33,28,34,65","57,66"
+Q-052,insurance scheme for BPL families,English,Keyword,Easy,Social Welfare,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.25,0,"75,24,79,43,92",58
+Q-052,insurance scheme for BPL families,English,Keyword,Easy,Social Welfare,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.25,0,"75,24,79,43,21",58
+Q-053,महिलाओं के लिए उद्यम योजना,Hindi,Keyword,Easy,Women Welfare,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,59
+Q-053,महिलाओं के लिए उद्यम योजना,Hindi,Keyword,Easy,Women Welfare,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.3333333333333333,1,"34,62,107,79,28",59
+Q-054,फेलोशिप योजना छात्रों के लिए,Hindi,Keyword,Easy,Education,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,"61,63"
+Q-054,फेलोशिप योजना छात्रों के लिए,Hindi,Keyword,Easy,Education,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.10714285714285714,1,"9,3,30,45,56","61,63"
+Q-055,girl child scheme financial assistance,English,Keyword,Easy,Women Welfare,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.3333333333333333,0,"91,79,30,107,29",62
+Q-055,girl child scheme financial assistance,English,Keyword,Easy,Women Welfare,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.3333333333333333,0,"30,91,56,79,3",62
+Q-056,student exchange fellowship scheme abroad,English,Natural Language,Medium,Education,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.14285714285714285,0,"106,51,63,83,105",64
+Q-056,student exchange fellowship scheme abroad,English,Natural Language,Medium,Education,semantic,1,0.0,1.0,0.0,1.0,0.2,0.25,1.0,0.14285714285714285,0,"45,106,51,64,49",64
+Q-057,sarkar se paisa kaise milega naya business ke liye,Code-Mixed,Conversational,Easy,Financial Assistance,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,"65,104"
+Q-057,sarkar se paisa kaise milega naya business ke liye,Code-Mixed,Conversational,Easy,Financial Assistance,semantic,2,0.0,1.0,0.0,0.5,0.2,0.2,1.0,0.1,1,"9,107,54,84,104","65,104"
+Q-058,specially abled student scholarship yojana,Code-Mixed,Keyword,Easy,Education,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.07142857142857142,0,"59,49,24,72,3","67,85"
+Q-058,specially abled student scholarship yojana,Code-Mixed,Keyword,Easy,Education,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.03571428571428571,0,"24,56,30,20,103","67,85"
+Q-059,farm mechanization scheme apply online,English,Question,Medium,Agriculture,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2777777777777778,0,"4,70,16,11,110",68
+Q-059,farm mechanization scheme apply online,English,Question,Medium,Agriculture,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2777777777777778,0,"11,70,16,4,110",68
+Q-060,matsya palan ke liye sarkari yojana,Code-Mixed,Natural Language,Medium,Agriculture,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.05555555555555555,0,"56,102,35,92,30",70
+Q-060,matsya palan ke liye sarkari yojana,Code-Mixed,Natural Language,Medium,Agriculture,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,"62,9,56,102,30",70
+Q-061,"mujhe rojgar ke liye training chahiye, koi sarkari scheme hai kya",Code-Mixed,Conversational,Hard,Employment,tfidf,1,1.0,1.0,1.0,1.0,0.2,1.0,1.0,0.14285714285714285,0,"73,14,44,112,18",73
+Q-061,"mujhe rojgar ke liye training chahiye, koi sarkari scheme hai kya",Code-Mixed,Conversational,Hard,Employment,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.14285714285714285,0,"9,102,14,47,30",73
+Q-062,welfare scheme for construction worker death,English,Natural Language,Medium,Social Welfare,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0,"41,112,102,32,58",75
+Q-062,welfare scheme for construction worker death,English,Natural Language,Medium,Social Welfare,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.25,0,"41,112,32,92,103",75
+Q-063,stamp duty reimbursement for new factory setup,English,Keyword,Medium,Financial Assistance,tfidf,2,0.0,1.0,0.0,0.5,0.2,0.5,1.0,0.16666666666666666,0,"97,76,81,13,57","76,84"
+Q-063,stamp duty reimbursement for new factory setup,English,Keyword,Medium,Financial Assistance,semantic,2,0.0,1.0,0.0,0.5,0.2,0.5,1.0,0.16666666666666666,0,"97,76,13,81,57","76,84"
+Q-064,patent registration ke liye sarkari sahayata,Code-Mixed,Natural Language,Hard,Financial Assistance,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.13333333333333333,0,"90,102,20,76,97",77
+Q-064,patent registration ke liye sarkari sahayata,Code-Mixed,Natural Language,Hard,Financial Assistance,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.1,0,"102,90,9,20,97",77
+Q-065,management training program for entrepreneurs,English,Natural Language,Medium,Employment,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.047619047619047616,0,"14,44,88,2,108",78
+Q-065,management training program for entrepreneurs,English,Natural Language,Medium,Employment,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.14285714285714285,0,"14,39,28,5,108",78
+Q-066,scholarship for girl students scheme,English,Keyword,Easy,Women Welfare,tfidf,1,0.0,1.0,0.0,1.0,0.2,0.3333333333333333,1.0,0.3333333333333333,0,"30,72,79,3,91",79
+Q-066,scholarship for girl students scheme,English,Keyword,Easy,Women Welfare,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.3333333333333333,0,"30,72,3,49,59",79
+Q-067,fisheries development scheme government,English,Natural Language,Medium,Agriculture,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2222222222222222,0,"63,43,35,68,46",80
+Q-067,fisheries development scheme government,English,Natural Language,Medium,Agriculture,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2777777777777778,0,"110,68,35,46,43",80
+Q-068,college fees ke liye sarkari madad kaise milegi,Code-Mixed,Question,Medium,Education,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.10714285714285714,0,"64,67,61,1,97","82,106"
+Q-068,college fees ke liye sarkari madad kaise milegi,Code-Mixed,Question,Medium,Education,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.07142857142857142,0,"9,3,30,56,20","82,106"
+Q-069,coconut farmers integrated farming scheme,English,Natural Language,Medium,Agriculture,tfidf,1,1.0,1.0,1.0,1.0,0.2,1.0,1.0,0.2777777777777778,0,"86,110,11,4,70",86
+Q-069,coconut farmers integrated farming scheme,English,Natural Language,Medium,Agriculture,semantic,1,1.0,1.0,1.0,1.0,0.2,1.0,1.0,0.2777777777777778,0,"86,60,40,89,110",86
+Q-070,margin money loan for small business scheme,English,Keyword,Easy,Employment,tfidf,1,1.0,1.0,1.0,1.0,0.2,1.0,1.0,0.09523809523809523,0,"87,100,62,23,84",87
+Q-070,margin money loan for small business scheme,English,Keyword,Easy,Employment,semantic,1,0.0,1.0,0.0,1.0,0.2,0.5,1.0,0.14285714285714285,0,"100,87,84,28,5",87
+Q-071,SC ST farmers ke liye tractor yojana,Code-Mixed,Natural Language,Medium,Agriculture,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16666666666666666,0,"4,16,34,70,104",89
+Q-071,SC ST farmers ke liye tractor yojana,Code-Mixed,Natural Language,Medium,Agriculture,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2222222222222222,0,"70,4,16,31,34",89
+Q-072,MSME loan subsidy government scheme,English,Keyword,Easy,Financial Assistance,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.13333333333333333,0,"23,84,14,115,77","90,96"
+Q-072,MSME loan subsidy government scheme,English,Keyword,Easy,Financial Assistance,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.13333333333333333,0,"84,71,23,54,28","90,96"
+Q-073,क्या बेटियों के लिए कोई बचत योजना है,Hindi,Question,Medium,Women Welfare,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,91
+Q-073,क्या बेटियों के लिए कोई बचत योजना है,Hindi,Question,Medium,Women Welfare,semantic,1,0.0,1.0,0.0,1.0,0.2,0.25,1.0,0.4444444444444444,1,"79,30,56,91,62",91
+Q-074,बुढ़ापे में पेंशन कैसे मिलेगी,Hindi,Question,Medium,Pension,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,92
+Q-074,बुढ़ापे में पेंशन कैसे मिलेगी,Hindi,Question,Medium,Pension,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,1,"10,29,21,41,103",92
+Q-075,technical college infrastructure grant scheme,English,Keyword,Easy,Education,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.10714285714285714,0,"64,61,38,26,10",93
+Q-075,technical college infrastructure grant scheme,English,Keyword,Easy,Education,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.14285714285714285,0,"26,61,63,38,64",93
+Q-076,how to get free skill training govt scheme,English,Question,Medium,Employment,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.09523809523809523,0,"73,112,47,82,24",94
+Q-076,how to get free skill training govt scheme,English,Question,Medium,Employment,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.14285714285714285,0,"112,39,9,73,17",94
+Q-077,handicraft artisan training scheme govt,English,Natural Language,Medium,Employment,tfidf,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.14285714285714285,0,"94,112,53,10,73","102,107"
+Q-077,handicraft artisan training scheme govt,English,Natural Language,Medium,Employment,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.14285714285714285,0,"18,53,36,8,10","102,107"
+Q-078,teacher training program government scheme,English,Natural Language,Medium,Education,tfidf,2,0.0,1.0,0.0,0.5,0.2,0.2,1.0,0.17857142857142858,0,"44,88,2,82,108","103,108"
+Q-078,teacher training program government scheme,English,Natural Language,Medium,Education,semantic,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.14285714285714285,0,"82,88,2,14,95","103,108"
+Q-079,librarian training program government scheme,English,Keyword,Easy,Education,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.14285714285714285,0,"44,88,2,108,14",105
+Q-079,librarian training program government scheme,English,Keyword,Easy,Education,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.14285714285714285,0,"44,14,2,108,9",105
+Q-080,मछुआरों के लिए राहत योजना,Hindi,Keyword,Easy,Agriculture,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,110
+Q-080,मछुआरों के लिए राहत योजना,Hindi,Keyword,Easy,Agriculture,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2222222222222222,1,"52,58,43,46,68",110
+Q-081,backward class students ke liye pre matric scholarship,Code-Mixed,Natural Language,Medium,Education,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.10714285714285714,0,"3,72,64,56,59",111
+Q-081,backward class students ke liye pre matric scholarship,Code-Mixed,Natural Language,Medium,Education,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.07142857142857142,0,"3,56,20,30,72",111
+Q-082,paddy growers subsidy yojana,Code-Mixed,Keyword,Easy,Agriculture,tfidf,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.1111111111111111,0,"89,56,102,35,92",114
+Q-082,paddy growers subsidy yojana,Code-Mixed,Keyword,Easy,Agriculture,semantic,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16666666666666666,0,"89,40,62,103,110",114

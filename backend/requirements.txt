@@ -1,0 +1,23 @@
+# JanSahay Backend & NLP Engine Dependencies
+
+# Web API Framework
+fastapi
+uvicorn
+pydantic
+
+# Data Processing & Numerical Computing
+pandas
+numpy
+
+# Machine Learning & TF-IDF Retrieval
+scikit-learn
+joblib
+
+# Semantic Search & Embeddings
+sentence-transformers
+torch
+
+# Utilities & Testing
+httpx
+pytest
+matplotlib

@@ -1,0 +1,3 @@
+model,n_queries,hit@1_strict,hit@5_strict,recall@1_strict,recall@5_strict,precision@5_strict,mrr_strict,hit@5_topical,recall@5_topical
+TF-IDF,82,0.0488,0.1585,0.0488,0.128,0.0317,0.0846,0.7195,0.1342
+Semantic (E5),82,0.061,0.2195,0.0549,0.1768,0.0439,0.1161,0.9512,0.1938

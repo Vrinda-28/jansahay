@@ -1,0 +1,1 @@
+"""JanSahay App Core package."""
